@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(197, 235, 255);
+  }
+  nav {background-color: #ff9696;
+  }
+
+  a {float:  right;
+    display: inline;
+    padding: 30px;
+    background-color: #ff9696;
+  }
+
+  .contact {float:  right;
+    display: inline;
+    padding: 30px;
+    background-color: #ff9696;
+    color: #000000;
+font-family: Inknut Antiqua;
+font-size: 1.25rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  #shreyarocks submit {color:rgb(255, 0, 43)}
+
+  h1{font-size: 70px;}
+
+  #fname { background-color:#D9D9D9;}
+  #lname  { background-color:#D9D9D9;}
